@@ -1,0 +1,16 @@
+spring:
+  main:
+    banner-mode: off
+    allow-bean-definition-overriding: true
+
+logging:
+  level:
+    root: off
+
+google:
+  rate-of-pay: 100
+  delay: 10
+  main-directory-id:
+  salary-directory-id:
+  schedules-directory-id:
+  rate-of-pay-file-id:
